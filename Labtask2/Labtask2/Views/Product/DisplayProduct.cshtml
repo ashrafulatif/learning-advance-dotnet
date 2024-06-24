@@ -1,0 +1,41 @@
+﻿
+@model Labtask2.Models.Product
+@{
+    ViewBag.Title = "DisplayProduct";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<h2>DisplayProduct</h2>
+<hr>
+
+@Html.LabelFor(x => x.Id) - @Html.TextBoxFor(x => x.Id)
+<br>
+<br>
+@Html.LabelFor(x => x.Name) - @Html.TextBoxFor(x => x.Name)
+<br>
+<br>
+@Html.LabelFor(x => x.Quality) - @Html.TextBoxFor(x => x.Quality)
+<br>
+<br>
+@Html.LabelFor(x => x.Catagory) -@Html.TextBoxFor(x => x.Catagory)
+<br>
+<br>
+
+@Html.LabelFor(x => x.ProductionDate) -@Html.TextBoxFor(x => x.ProductionDate)
+<br>
+<br>
+
+@Html.LabelFor(x => x.HelpLIne) -@Html.TextBoxFor(x => x.HelpLIne)
+<br>
+<br>
+
+@Html.LabelFor(x => x.IsDisposable) -@Html.TextBoxFor(x => x.IsDisposable)
+<br>
+<br>
+@Html.LabelFor(x => x.SupportEmail) -@Html.TextBoxFor(x => x.SupportEmail)
+<br>
+<br>
+<hr>
+
+

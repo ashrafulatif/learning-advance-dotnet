@@ -1,0 +1,19 @@
+﻿@model LabTask1.Models.Player
+@{
+    ViewBag.Title = "playerInfo";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Player Information</h2>
+<hr>
+
+<div>
+    <h6>Player Id: </h6>
+    <text>@Model.Id</text>
+    <h6>Player Name: </h6>
+    <text>@Model.Name</text>
+    <h6>Player Salary: </h6>
+    <text>@Model.Salary</text>
+
+</div>
+

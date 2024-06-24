@@ -1,0 +1,62 @@
+﻿
+@model LabTask1.ViewModel.SampleViewModel
+@{
+    ViewBag.Title = "ShowAllInfo";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Show All Information</h2>
+<hr>
+
+<div>
+    <h6>Player Information</h6>
+    @foreach (var player in Model.Player)
+    {
+        <ul>
+            <li>
+                @player.Id
+            </li>
+            <li>
+                @player.Name
+            </li>
+            <li>
+                @player.Salary
+            </li>
+        </ul>
+    }
+    <hr>
+
+    <h6>Staff Information</h6>
+
+    @foreach (var staff in Model.Staff)
+    {
+        <ul>
+            <li>
+                @staff.Id
+            </li>
+            <li>
+                @staff.Name
+            </li>
+            <li>
+                @staff.Position
+            </li>
+        </ul>
+    }
+    <hr>
+    <h6>Stadium Information</h6>
+
+    @foreach (var stadium in Model.Stadium)
+    {
+        <ul>
+            <li>
+                @stadium.Location
+            </li>
+            <li>
+                @stadium.Capacity
+            </li>
+
+        </ul>
+    }
+    <hr>
+
+</div>

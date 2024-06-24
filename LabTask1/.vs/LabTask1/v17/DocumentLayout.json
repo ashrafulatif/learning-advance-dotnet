@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Atif\\Desktop\\LabTask1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D41BA2A-E313-4F79-8454-8D2B90AF21DB}|LabTask1\\LabTask1.csproj|C:\\Users\\Atif\\Desktop\\LabTask1\\labtask1\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D41BA2A-E313-4F79-8454-8D2B90AF21DB}|LabTask1\\LabTask1.csproj|solutionrelative:labtask1\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D41BA2A-E313-4F79-8454-8D2B90AF21DB}|LabTask1\\LabTask1.csproj|C:\\Users\\Atif\\Desktop\\LabTask1\\labtask1\\controllers\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D41BA2A-E313-4F79-8454-8D2B90AF21DB}|LabTask1\\LabTask1.csproj|solutionrelative:labtask1\\controllers\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D41BA2A-E313-4F79-8454-8D2B90AF21DB}|LabTask1\\LabTask1.csproj|c:\\users\\atif\\desktop\\labtask1\\labtask1\\viewmodel\\sampleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D41BA2A-E313-4F79-8454-8D2B90AF21DB}|LabTask1\\LabTask1.csproj|solutionrelative:labtask1\\viewmodel\\sampleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D41BA2A-E313-4F79-8454-8D2B90AF21DB}|LabTask1\\LabTask1.csproj|C:\\Users\\Atif\\Desktop\\LabTask1\\labtask1\\models\\stadium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D41BA2A-E313-4F79-8454-8D2B90AF21DB}|LabTask1\\LabTask1.csproj|solutionrelative:labtask1\\models\\stadium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D41BA2A-E313-4F79-8454-8D2B90AF21DB}|LabTask1\\LabTask1.csproj|C:\\Users\\Atif\\Desktop\\LabTask1\\labtask1\\views\\player\\showallinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D41BA2A-E313-4F79-8454-8D2B90AF21DB}|LabTask1\\LabTask1.csproj|solutionrelative:labtask1\\views\\player\\showallinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D41BA2A-E313-4F79-8454-8D2B90AF21DB}|LabTask1\\LabTask1.csproj|C:\\Users\\Atif\\Desktop\\LabTask1\\labtask1\\views\\player\\stadium.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D41BA2A-E313-4F79-8454-8D2B90AF21DB}|LabTask1\\LabTask1.csproj|solutionrelative:labtask1\\views\\player\\stadium.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D41BA2A-E313-4F79-8454-8D2B90AF21DB}|LabTask1\\LabTask1.csproj|C:\\Users\\Atif\\Desktop\\LabTask1\\labtask1\\views\\player\\staff.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D41BA2A-E313-4F79-8454-8D2B90AF21DB}|LabTask1\\LabTask1.csproj|solutionrelative:labtask1\\views\\player\\staff.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D41BA2A-E313-4F79-8454-8D2B90AF21DB}|LabTask1\\LabTask1.csproj|C:\\Users\\Atif\\Desktop\\LabTask1\\labtask1\\views\\player\\playerinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D41BA2A-E313-4F79-8454-8D2B90AF21DB}|LabTask1\\LabTask1.csproj|solutionrelative:labtask1\\views\\player\\playerinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D41BA2A-E313-4F79-8454-8D2B90AF21DB}|LabTask1\\LabTask1.csproj|C:\\Users\\Atif\\Desktop\\LabTask1\\labtask1\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D41BA2A-E313-4F79-8454-8D2B90AF21DB}|LabTask1\\LabTask1.csproj|solutionrelative:labtask1\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D41BA2A-E313-4F79-8454-8D2B90AF21DB}|LabTask1\\LabTask1.csproj|C:\\Users\\Atif\\Desktop\\LabTask1\\labtask1\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D41BA2A-E313-4F79-8454-8D2B90AF21DB}|LabTask1\\LabTask1.csproj|solutionrelative:labtask1\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShowAllInfo.cshtml",
+              "DocumentMoniker": "C:\\Users\\Atif\\Desktop\\LabTask1\\LabTask1\\Views\\Player\\ShowAllInfo.cshtml",
+              "RelativeDocumentMoniker": "LabTask1\\Views\\Player\\ShowAllInfo.cshtml",
+              "ToolTip": "C:\\Users\\Atif\\Desktop\\LabTask1\\LabTask1\\Views\\Player\\ShowAllInfo.cshtml",
+              "RelativeToolTip": "LabTask1\\Views\\Player\\ShowAllInfo.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAC8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T05:33:54.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SampleViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Atif\\Desktop\\LabTask1\\LabTask1\\ViewModel\\SampleViewModel.cs",
+              "RelativeDocumentMoniker": "LabTask1\\ViewModel\\SampleViewModel.cs",
+              "ToolTip": "C:\\Users\\Atif\\Desktop\\LabTask1\\LabTask1\\ViewModel\\SampleViewModel.cs",
+              "RelativeToolTip": "LabTask1\\ViewModel\\SampleViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T05:21:26.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Stadium.cs",
+              "DocumentMoniker": "C:\\Users\\Atif\\Desktop\\LabTask1\\LabTask1\\Models\\Stadium.cs",
+              "RelativeDocumentMoniker": "LabTask1\\Models\\Stadium.cs",
+              "ToolTip": "C:\\Users\\Atif\\Desktop\\LabTask1\\LabTask1\\Models\\Stadium.cs",
+              "RelativeToolTip": "LabTask1\\Models\\Stadium.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T04:55:59.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Stadium.cshtml",
+              "DocumentMoniker": "C:\\Users\\Atif\\Desktop\\LabTask1\\LabTask1\\Views\\Player\\Stadium.cshtml",
+              "RelativeDocumentMoniker": "LabTask1\\Views\\Player\\Stadium.cshtml",
+              "ToolTip": "C:\\Users\\Atif\\Desktop\\LabTask1\\LabTask1\\Views\\Player\\Stadium.cshtml",
+              "RelativeToolTip": "LabTask1\\Views\\Player\\Stadium.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T04:52:30.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Staff.cshtml",
+              "DocumentMoniker": "C:\\Users\\Atif\\Desktop\\LabTask1\\LabTask1\\Views\\Player\\Staff.cshtml",
+              "RelativeDocumentMoniker": "LabTask1\\Views\\Player\\Staff.cshtml",
+              "ToolTip": "C:\\Users\\Atif\\Desktop\\LabTask1\\LabTask1\\Views\\Player\\Staff.cshtml",
+              "RelativeToolTip": "LabTask1\\Views\\Player\\Staff.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T04:51:46.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\Atif\\Desktop\\LabTask1\\LabTask1\\Controllers\\PlayerController.cs",
+              "RelativeDocumentMoniker": "LabTask1\\Controllers\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\Atif\\Desktop\\LabTask1\\LabTask1\\Controllers\\PlayerController.cs",
+              "RelativeToolTip": "LabTask1\\Controllers\\PlayerController.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAkwGUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T04:49:36.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "playerInfo.cshtml",
+              "DocumentMoniker": "C:\\Users\\Atif\\Desktop\\LabTask1\\LabTask1\\Views\\Player\\playerInfo.cshtml",
+              "RelativeDocumentMoniker": "LabTask1\\Views\\Player\\playerInfo.cshtml",
+              "ToolTip": "C:\\Users\\Atif\\Desktop\\LabTask1\\LabTask1\\Views\\Player\\playerInfo.cshtml",
+              "RelativeToolTip": "LabTask1\\Views\\Player\\playerInfo.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T04:51:17.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Atif\\Desktop\\LabTask1\\LabTask1\\Models\\Player.cs",
+              "RelativeDocumentMoniker": "LabTask1\\Models\\Player.cs",
+              "ToolTip": "C:\\Users\\Atif\\Desktop\\LabTask1\\LabTask1\\Models\\Player.cs",
+              "RelativeToolTip": "LabTask1\\Models\\Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T04:55:18.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "C:\\Users\\Atif\\Desktop\\LabTask1\\LabTask1\\Models\\Staff.cs",
+              "RelativeDocumentMoniker": "LabTask1\\Models\\Staff.cs",
+              "ToolTip": "C:\\Users\\Atif\\Desktop\\LabTask1\\LabTask1\\Models\\Staff.cs",
+              "RelativeToolTip": "LabTask1\\Models\\Staff.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T04:55:43.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Atif\\Desktop\\LabTask1\\LabTask1\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "LabTask1\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\Atif\\Desktop\\LabTask1\\LabTask1\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "LabTask1\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T04:53:39.635Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
