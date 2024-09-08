@@ -1,0 +1,35 @@
+﻿@model List<Labtask4CRUDEFF.Context.Student>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Student Information</h2>
+
+<hr />
+<br>
+<a href="@Url.Action("AddStudent","Student")"><i class="glyphicon glyphicon-plus"></i>Add New Student</a>
+<br>
+
+<table class="table table-hover">
+    <tr>
+        <th>Name</th>
+        <th>CGPA</th>
+        <th>Addmission Date</th>
+        <th>Department</th>
+        <th>Options</th>
+    </tr>
+    @foreach (var items in Model)
+    {
+        <tr>
+            <td>@items.Name</td>
+            <td>@items.Cgpa</td>
+            <td>@items.AddmissionDate.Value.ToShortDateString()</td>
+            <td>@items.Department.Department1</td>
+            <td>
+                <a href="@Url.Action("AddStudent", new {items.Id, items.Name, items.Cgpa, items.AddmissionDate,items.DepartmentId})"><i class="glyphicon glyphicon-edit"></i>Edit</a> |
+                <a href="@Url.Action("Delete", new {items.Id})"><i class="glyphicon glyphicon-remove"></i>Remove</a>
+            </td>
+        </tr>
+    }
+</table>
+

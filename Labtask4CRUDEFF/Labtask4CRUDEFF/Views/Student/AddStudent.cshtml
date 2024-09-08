@@ -1,0 +1,61 @@
+﻿@using Labtask4CRUDEFF.Context
+@model Labtask4CRUDEFF.Context.Student
+
+@{
+    ViewBag.Title = "AddStudent";
+}
+
+<style>
+    .rederr {
+        color: red;
+        font-size: xx-small;
+    }
+</style>
+
+<h2>Add Student</h2>
+
+@using (Html.BeginForm("CerateStudent", "Student", FormMethod.Post))
+{
+    <div class="container">
+        @Html.HiddenFor(x => x.Id)
+        <div class="form-group ">
+            @Html.LabelFor(x => x.Name)
+            @Html.TextBoxFor(x => x.Name, new { @class = "form-control" })
+            @Html.ValidationMessageFor(x => x.Name, "", new { @class = "rederr" })
+        </div>
+
+        <div class="form-group ">
+            @Html.LabelFor(x => x.Cgpa)
+            @Html.TextBoxFor(x => x.Cgpa, new { @class = "form-control" })
+            @Html.ValidationMessageFor(x => x.Cgpa, "", new { @class = "rederr" })
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(x => x.AddmissionDate)
+            @if (ViewBag.NoData == 0)
+            {
+                @Html.EditorFor(x => x.AddmissionDate, new { htmlAttributes = new { @class = "form-control" } })
+
+            }
+            else
+            {
+                @Html.EditorFor(x => x.AddmissionDate, new { htmlAttributes = new { @Value = Model.AddmissionDate.Value.ToString("yyyy-MM-dd"), @class = "form-control" } })
+
+            }
+            @Html.ValidationMessageFor(x => x.AddmissionDate, "", new { @class = "rederr" })
+        </div>
+
+        <div class="form-group ">
+            @Html.LabelFor(x => x.DepartmentId)
+            @Html.DropDownListFor(x => x.DepartmentId, ViewBag.DeptList as SelectList, "--Select--", new { @class = "form-control" })
+
+            @Html.ValidationMessageFor(x => x.DepartmentId, "", new { @class = "rederr" })
+        </div>
+        <br />
+        <div class="form-group ">
+
+            <input id="addBtn" type="submit" value="Save" class="btn btn-primary" />
+        </div>
+    </div>
+
+}
