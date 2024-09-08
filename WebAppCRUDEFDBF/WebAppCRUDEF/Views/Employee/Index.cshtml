@@ -1,0 +1,61 @@
+﻿
+@model List<WebAppCRUDEF.Context.Employee>
+@{
+    ViewBag.Title = "Index";
+}
+
+<script>
+    setTimeout(() => {
+        const box = document.getElementById('hide');
+        box.style.display = 'none';
+    },5000)
+</script>
+
+@if (ViewBag.Success != null)
+  {
+    <div id="hide" , class="alert alert-success">
+    <strong>@ViewBag.Success !! </strong>
+    </div>
+ }
+
+<h2>Employee Information</h2>
+
+<hr/>
+<br>
+<a href="@Url.Action("AddEmployee","Employee")"><i class="glyphicon glyphicon-plus"></i>Add New Employee</a>
+<br>
+    @if (TempData["msgAdd"] != null)
+            {
+                <div id="hide", class="alert alert-success">
+                    <strong>Good work !! </strong> @TempData["msgAdd"]
+                </div>
+            }
+<hr>
+
+<table class="table table-hover">
+    <tr>
+        <th>Name</th>
+        <th>Joining Date</th>
+        <th>Email Address</th>
+        <th>Phone Number</th>
+        <th>Salary</th>
+        <th>Designation</th>
+        <th>Options</th>
+    </tr>
+    @foreach (var items in Model)
+            {
+                <tr>
+                    <td>@items.Name</td>
+                    <td>@items.JoinDate.Value.ToShortDateString()</td>
+                    <td>@items.Email</td>
+                    <td>@items.Cell</td>
+                    <td>@items.Salary</td>
+                    <td>@items.Designation</td>
+                    <td>
+                        <a href="#"><i class="glyphicon glyphicon-edit"></i>Edit</a> |
+                        <a href="@Url.Action("Delete", "Employee", new {id=items.Id})"><i class="glyphicon glyphicon-remove"></i>Remove</a>
+                    </td>
+                </tr>
+            }
+</table>
+

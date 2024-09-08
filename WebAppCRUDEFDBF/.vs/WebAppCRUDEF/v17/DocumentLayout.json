@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UNI\\Summer 23-24\\Advance Dot Net\\WebAppCRUDEF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CECAC6B3-ADEA-46DE-AA57-53A4CA84EFF6}|WebAppCRUDEF\\WebAppCRUDEF.csproj|d:\\uni\\summer 23-24\\advance dot net\\webappcrudef\\webappcrudef\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CECAC6B3-ADEA-46DE-AA57-53A4CA84EFF6}|WebAppCRUDEF\\WebAppCRUDEF.csproj|solutionrelative:webappcrudef\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CECAC6B3-ADEA-46DE-AA57-53A4CA84EFF6}|WebAppCRUDEF\\WebAppCRUDEF.csproj|D:\\UNI\\Summer 23-24\\Advance Dot Net\\WebAppCRUDEF\\webappcrudef\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CECAC6B3-ADEA-46DE-AA57-53A4CA84EFF6}|WebAppCRUDEF\\WebAppCRUDEF.csproj|solutionrelative:webappcrudef\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CECAC6B3-ADEA-46DE-AA57-53A4CA84EFF6}|WebAppCRUDEF\\WebAppCRUDEF.csproj|D:\\UNI\\Summer 23-24\\Advance Dot Net\\WebAppCRUDEF\\webappcrudef\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CECAC6B3-ADEA-46DE-AA57-53A4CA84EFF6}|WebAppCRUDEF\\WebAppCRUDEF.csproj|solutionrelative:webappcrudef\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CECAC6B3-ADEA-46DE-AA57-53A4CA84EFF6}|WebAppCRUDEF\\WebAppCRUDEF.csproj|D:\\UNI\\Summer 23-24\\Advance Dot Net\\WebAppCRUDEF\\webappcrudef\\views\\employee\\addemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CECAC6B3-ADEA-46DE-AA57-53A4CA84EFF6}|WebAppCRUDEF\\WebAppCRUDEF.csproj|solutionrelative:webappcrudef\\views\\employee\\addemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CECAC6B3-ADEA-46DE-AA57-53A4CA84EFF6}|WebAppCRUDEF\\WebAppCRUDEF.csproj|D:\\UNI\\Summer 23-24\\Advance Dot Net\\WebAppCRUDEF\\webappcrudef\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CECAC6B3-ADEA-46DE-AA57-53A4CA84EFF6}|WebAppCRUDEF\\WebAppCRUDEF.csproj|solutionrelative:webappcrudef\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CECAC6B3-ADEA-46DE-AA57-53A4CA84EFF6}|WebAppCRUDEF\\WebAppCRUDEF.csproj|D:\\UNI\\Summer 23-24\\Advance Dot Net\\WebAppCRUDEF\\webappcrudef\\context\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CECAC6B3-ADEA-46DE-AA57-53A4CA84EFF6}|WebAppCRUDEF\\WebAppCRUDEF.csproj|solutionrelative:webappcrudef\\context\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CECAC6B3-ADEA-46DE-AA57-53A4CA84EFF6}|WebAppCRUDEF\\WebAppCRUDEF.csproj|D:\\UNI\\Summer 23-24\\Advance Dot Net\\WebAppCRUDEF\\webappcrudef\\views\\user\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CECAC6B3-ADEA-46DE-AA57-53A4CA84EFF6}|WebAppCRUDEF\\WebAppCRUDEF.csproj|solutionrelative:webappcrudef\\views\\user\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CECAC6B3-ADEA-46DE-AA57-53A4CA84EFF6}|WebAppCRUDEF\\WebAppCRUDEF.csproj|D:\\UNI\\Summer 23-24\\Advance Dot Net\\WebAppCRUDEF\\webappcrudef\\context\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CECAC6B3-ADEA-46DE-AA57-53A4CA84EFF6}|WebAppCRUDEF\\WebAppCRUDEF.csproj|solutionrelative:webappcrudef\\context\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SignUp.cshtml",
+              "DocumentMoniker": "D:\\UNI\\Summer 23-24\\Advance Dot Net\\WebAppCRUDEF\\WebAppCRUDEF\\Views\\User\\SignUp.cshtml",
+              "RelativeDocumentMoniker": "WebAppCRUDEF\\Views\\User\\SignUp.cshtml",
+              "ToolTip": "D:\\UNI\\Summer 23-24\\Advance Dot Net\\WebAppCRUDEF\\WebAppCRUDEF\\Views\\User\\SignUp.cshtml",
+              "RelativeToolTip": "WebAppCRUDEF\\Views\\User\\SignUp.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAQwCcAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T02:36:13.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\UNI\\Summer 23-24\\Advance Dot Net\\WebAppCRUDEF\\WebAppCRUDEF\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "WebAppCRUDEF\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\UNI\\Summer 23-24\\Advance Dot Net\\WebAppCRUDEF\\WebAppCRUDEF\\Controllers\\UserController.cs",
+              "RelativeToolTip": "WebAppCRUDEF\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAcwBgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T00:49:55.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddEmployee.cshtml",
+              "DocumentMoniker": "D:\\UNI\\Summer 23-24\\Advance Dot Net\\WebAppCRUDEF\\WebAppCRUDEF\\Views\\Employee\\AddEmployee.cshtml",
+              "RelativeDocumentMoniker": "WebAppCRUDEF\\Views\\Employee\\AddEmployee.cshtml",
+              "ToolTip": "D:\\UNI\\Summer 23-24\\Advance Dot Net\\WebAppCRUDEF\\WebAppCRUDEF\\Views\\Employee\\AddEmployee.cshtml",
+              "RelativeToolTip": "WebAppCRUDEF\\Views\\Employee\\AddEmployee.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T20:29:49.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\UNI\\Summer 23-24\\Advance Dot Net\\WebAppCRUDEF\\WebAppCRUDEF\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "WebAppCRUDEF\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\UNI\\Summer 23-24\\Advance Dot Net\\WebAppCRUDEF\\WebAppCRUDEF\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "WebAppCRUDEF\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAwCUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T19:59:56.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\UNI\\Summer 23-24\\Advance Dot Net\\WebAppCRUDEF\\WebAppCRUDEF\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebAppCRUDEF\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "D:\\UNI\\Summer 23-24\\Advance Dot Net\\WebAppCRUDEF\\WebAppCRUDEF\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "WebAppCRUDEF\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T20:01:45.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\UNI\\Summer 23-24\\Advance Dot Net\\WebAppCRUDEF\\WebAppCRUDEF\\Context\\Employee.cs",
+              "RelativeDocumentMoniker": "WebAppCRUDEF\\Context\\Employee.cs",
+              "ToolTip": "D:\\UNI\\Summer 23-24\\Advance Dot Net\\WebAppCRUDEF\\WebAppCRUDEF\\Context\\Employee.cs",
+              "RelativeToolTip": "WebAppCRUDEF\\Context\\Employee.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAkwBgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T20:46:41.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\UNI\\Summer 23-24\\Advance Dot Net\\WebAppCRUDEF\\WebAppCRUDEF\\Views\\User\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebAppCRUDEF\\Views\\User\\Login.cshtml",
+              "ToolTip": "D:\\UNI\\Summer 23-24\\Advance Dot Net\\WebAppCRUDEF\\WebAppCRUDEF\\Views\\User\\Login.cshtml",
+              "RelativeToolTip": "WebAppCRUDEF\\Views\\User\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T01:02:42.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\UNI\\Summer 23-24\\Advance Dot Net\\WebAppCRUDEF\\WebAppCRUDEF\\Context\\User.cs",
+              "RelativeDocumentMoniker": "WebAppCRUDEF\\Context\\User.cs",
+              "ToolTip": "D:\\UNI\\Summer 23-24\\Advance Dot Net\\WebAppCRUDEF\\WebAppCRUDEF\\Context\\User.cs",
+              "RelativeToolTip": "WebAppCRUDEF\\Context\\User.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAgwCQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T00:48:48.289Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
